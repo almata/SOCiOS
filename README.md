@@ -1,8 +1,7 @@
-# Vídeos pel curs...
-# Desenvolupament d'aplicacions per a dispositius iOS
+# Vídeos pel curs Desenvolupament d'aplicacions per a dispositius iOS
 
-* 👤 Albert Mata
-* 📅 Tardor 2018
+<div>👤 Albert Mata</div>
+<div>📅 Tardor 2018</div>
 
 📲 __Crear esquelet bàsic de MyPlaces partint de plantilla bàsica__ 〰️ 11/10/18
 
