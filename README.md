@@ -1,5 +1,3 @@
-<link rel="icon" type="image/png" href="favicon.png">
-
 ## Vídeos pel curs Desenvolupament d'aplicacions per a dispositius iOS
 
 <div>👤 Albert Mata</div>
