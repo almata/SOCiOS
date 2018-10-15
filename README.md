@@ -3,6 +3,10 @@
 <div>👤 Albert Mata</div>
 <div>📅 Tardor 2018</div>
 
+📲 [__4. Crear subclasse de UITableViewCell per dissenyar una cel·la personalitzada__](https://www.youtube.com/watch?v=tu1jRishhYw) 🔗 15/10/18
+
+Mostrem com crear una cel·la (subclasse de `UITableViewCell`) personalitzada per la nostra taula. En dissenyem una de trivial, però el procés és exactament el mateix per crear-ne de més vistoses. A més, fem anar per primera vegada un `UIStackView`, que és un element clau per dissenyar interfícies gràfiques en iOS.
+
 📲 [__3. Dubtes bàsics sobre DataSource i Delegate__](https://www.youtube.com/watch?v=oPVBzuiDK9M) 🔗 14/10/18
 
 Donem resposta a dubtes bàsics habituals sobre el funcionament de `UITableView`. Cal informar les propietats `dataSource` i `delegate`? I tots aquests mètodes que implementem... quan els cridem? O, si no els cridem nosaltres, qui i quan ho fa?
