@@ -3,6 +3,10 @@
 <div>👤 Albert Mata</div>
 <div>📅 Tardor 2018</div>
 
+📲 [__5. Afegir navegació entre una cel·la i un nou UIViewController__](https://www.youtube.com/watch?v=8YpZ4KtJajY) 🔗 16/10/18
+
+Fixem l'alçada de la nostra cel·la personalitzada. Afegim navegació entre cada cel·la i un nou `UIViewController` per mostrar el detall de l'element seleccionat. Veiem alguna noció més de `UIStackView` i Auto Layout.
+
 📲 [__4. Crear subclasse de UITableViewCell per dissenyar una cel·la personalitzada__](https://www.youtube.com/watch?v=tu1jRishhYw) 🔗 15/10/18
 
 Mostrem com crear una cel·la (subclasse de `UITableViewCell`) personalitzada per la nostra taula. En dissenyem una de trivial, però el procés és exactament el mateix per crear-ne de més vistoses. A més, fem anar per primera vegada un `UIStackView`, que és un element clau per dissenyar interfícies gràfiques en iOS.
