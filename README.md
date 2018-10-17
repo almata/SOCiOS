@@ -7,7 +7,7 @@
 
 Mostrem com podem obrir la llibreria d'objectes de tal manera que romangui oberta fins que decidim tancar-la manualment.
 
-📲 [__7. Utilitzar prepare(for: sender:) per enviar informació al UIViewController destí__](https://www.youtube.com/watch?v=vVK9R8gVOrE) 🔗 17/10/18
+📲 [__7. Utilitzar prepare(for: sender:) per enviar informació a un UIViewController__](https://www.youtube.com/watch?v=vVK9R8gVOrE) 🔗 17/10/18
 
 Mostrem com preparar la navegació entre la nostra cel·la personalitzada i el nou controlador que hem creat als vídeos anteriors, de tal manera que quan el controlador de destí es carregui mostri la informació de l'element que s'ha seleccionat a la taula.
 
