@@ -3,6 +3,14 @@
 <div>👤 Albert Mata</div>
 <div>📅 Tardor 2018</div>
 
+📲 [__10. Navegar entre cel·la i detall de dues maneres diferents (Part 2)__](https://www.youtube.com/watch?v=TFH4b-wfhDc) 🔗 19/10/18
+
+Entrem a fons en els dos sistemes diferents de navegar entre les cel·les d'una taula i un altre `UIViewController` que mostri el detall de la selecció feta per l'usuari. A banda, veiem com el `sender` del mètode `prepare(for:sender:)` pot ser una cel·la o qualsevol altre objecte que ens interessi.
+
+📲 [__9. Navegar entre cel·la i detall de dues maneres diferents (Part 1)__](https://www.youtube.com/watch?v=1YYDt11yWgQ) 🔗 19/10/18
+
+Mostrem com funciona una extensió d'una classe i comencem a preparar un projecte que ens permetrà explorar dues maneres diferents, però equivalents, de navegar entre les cel·les d'una taula i un altre `UIViewController` que mostri el detall de la selecció feta per l'usuari.
+
 📲 [__8. Obrir la llibreria d'objectes com a finestra flotant__](https://www.youtube.com/watch?v=7QO8091E5k4) 🔗 17/10/18
 
 Mostrem com podem obrir la llibreria d'objectes de tal manera que romangui oberta fins que decidim tancar-la manualment.
