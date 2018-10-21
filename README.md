@@ -3,9 +3,9 @@
 <div>👤 Albert Mata</div>
 <div>📅 Tardor 2018</div>
 
-📲 [__11. Relació entre storyboard i instàncies de UIViewController i subclasses__](https://www.youtube.com/watch?v=9_oWYB5bke4) 🔗 21/10/18
+📲 [__11. Relació entre storyboard i instàncies de UIViewController i subclasses__](https://www.youtube.com/watch?v=9_oWYB5bke4) 🔗 21/10/18
 
-Aquest vídeo no ensenya com fer res en concret. Es tracta més aviat d'una explicació conceptual sobre de quina manera les instàncies de `UIViewController` (i subclasses) que dissenyem als storyboards es relacionen amb els arxius de codi .swift que creem en paral·lel a Xcode. Mostrem la part que Xcode fa automàticament per nosaltres quan utilitzem storyboards i veiem que, de fet, si volem podem treballar sense storyboards.
+Aquest vídeo no ensenya com fer res en concret. Es tracta més aviat d'una explicació conceptual sobre la manera com les instàncies de `UIViewController` (i subclasses) que dissenyem als storyboards es relacionen amb els arxius de codi .swift que creem en paral·lel a Xcode. Mostrem la part que Xcode fa automàticament per nosaltres quan utilitzem storyboards i veiem que, de fet, si volem podem treballar sense storyboards.
 
 📲 [__10. Navegar entre cel·la i detall de dues maneres diferents (Part 2)__](https://www.youtube.com/watch?v=TFH4b-wfhDc) 🔗 19/10/18
 
@@ -27,7 +27,7 @@ Mostrem com preparar la navegació entre la nostra cel·la personalitzada i el n
 
 Creem una subclasse de `UIViewController` i expliquem quan és necessari fer-ho i per què ho fem en comptes de treballar directament amb instàncies de `UIViewController`. 
 
-📲 [__5. Afegir navegació entre una cel·la i un nou UIViewController__](https://www.youtube.com/watch?v=8YpZ4KtJajY) 🔗 16/10/18
+📲 [__5. Afegir navegació entre una cel·la i un nou UIViewController__](https://www.youtube.com/watch?v=8YpZ4KtJajY) 🔗 16/10/18
 
 Fixem l'alçada de la nostra cel·la personalitzada. Afegim navegació entre cada cel·la i un nou `UIViewController` per mostrar el detall de l'element seleccionat. Veiem alguna noció més de `UIStackView` i Auto Layout.
 
