@@ -3,6 +3,10 @@
 <div>👤 Albert Mata</div>
 <div>📅 Tardor 2018</div>
 
+📲 [__11. Relació entre storyboard i instàncies de UIViewController i subclasses__](https://www.youtube.com/watch?v=9_oWYB5bke4) 🔗 21/10/18
+
+Aquest vídeo no ensenya com fer res en concret. Es tracta més aviat d'una explicació conceptual sobre de quina manera les instàncies de `UIViewController` (i subclasses) que dissenyem als storyboards es relacionen amb els arxius de codi .swift que creem en paral·lel a Xcode. Mostrem la part que Xcode fa automàticament per nosaltres quan utilitzem storyboards i veiem que, de fet, si volem podem treballar sense storyboards.
+
 📲 [__10. Navegar entre cel·la i detall de dues maneres diferents (Part 2)__](https://www.youtube.com/watch?v=TFH4b-wfhDc) 🔗 19/10/18
 
 Entrem a fons en els dos sistemes diferents de navegar entre les cel·les d'una taula i un altre `UIViewController` que mostri el detall de la selecció feta per l'usuari. A banda, veiem com el `sender` del mètode `prepare(for:sender:)` pot ser una cel·la o qualsevol altre objecte que ens interessi.
