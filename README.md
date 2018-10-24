@@ -3,6 +3,18 @@
 <div>👤 Albert Mata</div>
 <div>📅 Tardor 2018</div>
 
+📲 [__14. Dissenyar cel·la amb UIImageView, UIStackView i Auto Layout (Part 3)__](https://www.youtube.com/watch?v=4in4skNGgg8) 🔗 24/10/18
+
+Comentem com, de fet, hi ha gent que prefereix que el codi de configuració d'una cel·la estigui situat a la mateixa cel·la (en el nostre cas a `ElementCell`). Expliquem els pros i contres d'aquesta manera de fer, relacionant-ho amb el compliment del patró de disseny MVC. Com a nota afegida, segurament el mètode `bind` és millor crear-lo amb la signatura `func bind(_ chemicalElement: ChemicalElement)`, amb aquest `_` afegit per fer que no calgui posar el nom extern del paràmetre, cosa que farà que cridar el mètode des del controlador sigui tan senzill i breu com `cell.bind(chemicalElement)`.
+
+📲 [__13. Dissenyar cel·la amb UIImageView, UIStackView i Auto Layout (Part 2)__](https://www.youtube.com/watch?v=ny_9kDjdYys) 🔗 24/10/18
+
+Expliquem com eliminar un warning corresponent a un error que ens marca Auto Layout.
+
+📲 [__12. Dissenyar cel·la amb UIImageView, UIStackView i Auto Layout (Part 1)__](https://www.youtube.com/watch?v=SLQctjsP_Bw) 🔗 24/10/18
+
+Creem una cel·la visualment més atractiva que la que teníem fins ara. Per fer-ho, treballem amb `UIImageView`, l'arxiu `Assets.xcassets`, `UIStackView` horitzontal i vertical, Auto Layout, transparències, etc.
+
 📲 [__11. Relació entre storyboard i instàncies de UIViewController i subclasses__](https://www.youtube.com/watch?v=9_oWYB5bke4) 🔗 21/10/18
 
 Aquest vídeo no ensenya com fer res en concret. Es tracta més aviat d'una explicació conceptual sobre de quina manera les instàncies de `UIViewController` (i subclasses) que dissenyem als storyboards es relacionen amb els arxius de codi .swift que creem en paral·lel a Xcode. Mostrem la part que Xcode fa automàticament per nosaltres quan utilitzem storyboards i veiem que, de fet, si volem podem treballar sense storyboards.
