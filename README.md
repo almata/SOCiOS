@@ -3,7 +3,7 @@
 <div>👤 Albert Mata</div>
 <div>📅 Tardor 2018</div>
 
-📲 [__15. Afegir cantonades arrodonides a una vista per crear cel·les tipus targetes__](https://www.youtube.com/watch?v=4in4skNGgg8) 🔗 25/10/18
+📲 [__15. Afegir cantonades arrodonides a una vista per crear cel·les tipus targetes__](https://www.youtube.com/watch?v=xMMdeREEBA0) 🔗 25/10/18
 
 Fem servir `cornerRadius` per mostrar vistes amb les cantonades arrodonides i seguim jugant amb propietats bàsiques d'Auto Layout.
 
