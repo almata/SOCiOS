@@ -3,6 +3,10 @@
 <div>👤 Albert Mata</div>
 <div>📅 Tardor 2018</div>
 
+📲 [__15. Afegir cantonades arrodonides a una vista per crear cel·les tipus targetes__](https://www.youtube.com/watch?v=4in4skNGgg8) 🔗 25/10/18
+
+Fem servir `cornerRadius` per mostrar vistes amb les cantonades arrodonides i seguim jugant amb propietats bàsiques d'Auto Layout.
+
 📲 [__14. Dissenyar cel·la amb UIImageView, UIStackView i Auto Layout (Part 3)__](https://www.youtube.com/watch?v=4in4skNGgg8) 🔗 24/10/18
 
 Comentem com, de fet, hi ha gent que prefereix que el codi de configuració d'una cel·la estigui situat a la mateixa cel·la (en el nostre cas a `ElementCell`). Expliquem els pros i contres d'aquesta manera de fer, relacionant-ho amb el compliment del patró de disseny MVC. Com a nota afegida, segurament el mètode `bind` és millor crear-lo amb la signatura `func bind(_ chemicalElement: ChemicalElement)`, amb aquest `_` afegit per fer que no calgui posar el nom extern del paràmetre, cosa que farà que cridar el mètode des del controlador sigui tan senzill i breu com `cell.bind(chemicalElement)`.
