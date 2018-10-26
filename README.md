@@ -5,11 +5,11 @@
 
 📲 [__18. Canviar les restriccions d'Auto Layout amb l'opció Vary for traits__](https://www.youtube.com/watch?v=zGs_WXbHYpg) 🔗 26/10/18
 
-Utilitzem l'opció **Vary for traits** per fer que la nostra interfície gràfica sigui diferent segons si el dispositiu en què s'executa l'aplicació té una width o una height amb valor C (Compact, _petita_) o R (Regular, _gran_).
+Utilitzem l'opció **Vary for traits** per fer que la nostra interfície gràfica sigui diferent segons si el dispositiu en què s'executa l'aplicació té una width o una height amb valor C (Compact, petita) o R (Regular, gran).
 
 📲 [__17. Treballar amb unwind segues per tornar a pantalles anteriors de la nostra app__]() 🔗 26/10/18
 
-**ESTARÀ PUBLICAT CAP A LES 21 HORES** Afegim un nou controlador que enllacem amb un segue modal i, tot seguit, mostrem com podem fer servir els anomenats **unwind segues** per tirar enrere cap a qualsevol dels controladors anteriors definits en la nostra navegació a l'storyboard. 
+**ESTARÀ PUBLICAT CAP A LES 21 HORES**<br/>**ESTARÀ PUBLICAT CAP A LES 21 HORES**<br/>**ESTARÀ PUBLICAT CAP A LES 21 HORES**<br/><br/>Afegim un nou controlador que enllacem amb un segue modal i, tot seguit, mostrem com podem fer servir els anomenats **unwind segues** per tirar enrere cap a qualsevol dels controladors anteriors definits en la nostra navegació a l'storyboard. 
 
 📲 [__16. Establir títol d'un controlador i text del botó per tirar enrere__](https://www.youtube.com/watch?v=qfsTZl81PYI) 🔗 26/10/18
 
