@@ -3,6 +3,10 @@
 <div>👤 Albert Mata</div>
 <div>📅 Tardor 2018</div>
 
+📲 [__19. Combinar UIScrollView i UIStackView per mostrar més contingut__](https://www.youtube.com/watch?v=yteNqD3XQq8) 🔗 09/11/18
+
+Creem una interfície que recorda una `UITableView`, però feta manualment amb un `UIScrollView` extern que inclou dins un únic `UIStackView` vertical, que al seu torn inclou uns quants `UIStackView` horitzontals, cadascun dels quals inclou algunes altres vistes (imatges i etiquetes).
+
 📲 [__18. Canviar les restriccions d'Auto Layout amb l'opció Vary for traits__](https://www.youtube.com/watch?v=zGs_WXbHYpg) 🔗 26/10/18
 
 Utilitzem l'opció Vary for traits per fer que la nostra interfície gràfica sigui diferent segons si el dispositiu en què s'executa l'aplicació té una width o una height amb valor C (Compact, petita) o R (Regular, gran).
