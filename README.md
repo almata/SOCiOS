@@ -3,6 +3,10 @@
 <div>👤 Albert Mata</div>
 <div>📅 Tardor 2018</div>
 
+📲 [__20. Reproduir una UI semblant a la de Twitter amb UIScrollView i UIStackView__](https://www.youtube.com/watch?v=135vCpVc0VY) 🔗 10/11/18
+
+Agafem l'app oficial de Twitter i creem una interfície gràfica similar, amb avatar, nom d'usuari, handle, text del tuit i una imatge. Ho fem tot combinant un `UIScrollView` i diverses instàncies de `UIStackView`. També mostrem com crear una imatge 100% rodona i com jugar amb constants negatives a Auto Layout per aconseguir alguns efectes interessants.
+
 📲 [__19. Combinar UIScrollView i UIStackView per mostrar més contingut__](https://www.youtube.com/watch?v=yteNqD3XQq8) 🔗 09/11/18
 
 Creem una interfície que recorda una `UITableView`, però feta manualment amb un `UIScrollView` extern que inclou dins un únic `UIStackView` vertical, que al seu torn inclou uns quants `UIStackView` horitzontals, cadascun dels quals inclou algunes altres vistes (imatges i etiquetes).
