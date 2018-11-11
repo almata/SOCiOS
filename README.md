@@ -3,9 +3,9 @@
 <div>👤 Albert Mata</div>
 <div>📅 Tardor 2018</div>
 
-📲 [__22. Convertir un array d'instàncies d'una estructura a JSON (Part 2)__]() 🔗 11/11/18
+📲 [__22. Convertir un array d'instàncies d'una estructura a JSON (Part 2)__](https://www.youtube.com/watch?v=mUGNjBoGSyc) 🔗 11/11/18
 
-**ESTARÀ DISPONIBLE DIUMENGE A LA NIT** Afegim a `Author` una nova variable d'un tipus de dades amb la que JSON no sap treballar-hi i veiem com necessitarem indicar de quina manera s'ha de fer ara la conversió entre les nostres dades i JSON i a l'inrevès.
+Afegim a `Author` una nova variable d'un tipus de dades amb la que JSON no sap treballar-hi (`CLLocationCoordinate2D`) i veiem com necessitarem indicar de quina manera s'ha de fer ara la conversió entre les nostres dades i JSON i a l'inrevès.
 
 📲 [__21. Convertir un array d'instàncies d'una estructura a JSON (Part 1)__](https://www.youtube.com/watch?v=zGkL2hypP9I) 🔗 11/11/18
 
