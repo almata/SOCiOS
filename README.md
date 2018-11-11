@@ -3,6 +3,14 @@
 <div>👤 Albert Mata</div>
 <div>📅 Tardor 2018</div>
 
+📲 [__22. Convertir un array d'instàncies d'una estructura a JSON (Part 2)__]() 🔗 11/11/18
+
+**ESTARÀ DISPONIBLE DIUMENGE A LA NIT** Afegim a `Author` una nova variable d'un tipus de dades amb la que JSON no sap treballar-hi i veiem com necessitarem indicar de quina manera s'ha de fer ara la conversió entre les nostres dades i JSON i a l'inrevès.
+
+📲 [__21. Convertir un array d'instàncies d'una estructura a JSON (Part 1)__](https://www.youtube.com/watch?v=zGkL2hypP9I) 🔗 11/11/18
+
+Creem una estructura `Author` amb una sèrie de propietats de tipus que JSON entén (`String`, `Int`, etc.) i mostrem primer com convertir un array d'instàncies d'aquesta `struct` a format JSON i, tot seguit, com tornar a obtenir un array d'instàncies a partir del JSON que acabem de generar.
+
 📲 [__20. Reproduir una UI semblant a la de Twitter amb UIScrollView i UIStackView__](https://www.youtube.com/watch?v=135vCpVc0VY) 🔗 10/11/18
 
 Agafem l'app oficial de Twitter i creem una interfície gràfica similar, amb avatar, nom d'usuari, handle, text del tuit i una imatge. Ho fem tot combinant un `UIScrollView` i diverses instàncies de `UIStackView`. També mostrem com crear una imatge 100% rodona i com jugar amb constants negatives a Auto Layout per aconseguir alguns efectes interessants.
