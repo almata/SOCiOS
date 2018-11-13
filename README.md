@@ -3,6 +3,10 @@
 <div>👤 Albert Mata</div>
 <div>📅 Tardor 2018</div>
 
+📲 [__23. Guardar un JSON al sistema local d'arxius d'una app i llegir-lo__](https://www.youtube.com/watch?v=xUYibiD1C_Y) 🔗 13/11/18
+
+Creem una app que agafa un array d'autors, el converteix a format JSON i el guarda al sistema local d'arxius de l'aplicació. Tot seguit, canviem el codi perquè quan l'app torni a obrir-se llegeixi l'arxiu .json que prèviament s'ha guardat i sigui capaç de recuperar el contingut JSON i convertir-lo de nou en l'array d'autors original.
+
 📲 [__22. Convertir un array d'instàncies d'una estructura a JSON (Part 2)__](https://www.youtube.com/watch?v=mUGNjBoGSyc) 🔗 11/11/18
 
 Afegim a `Author` una nova variable d'un tipus de dades amb la que JSON no sap treballar-hi (`CLLocationCoordinate2D`) i veiem com necessitarem indicar de quina manera s'ha de fer ara la conversió entre les nostres dades i JSON i a l'inrevès.
