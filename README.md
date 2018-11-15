@@ -3,6 +3,10 @@
 <div>👤 Albert Mata</div>
 <div>📅 Tardor 2018</div>
 
+📲 [__24. Mostrar una sèrie de llocs en un MKMapView__](https://www.youtube.com/watch?v=hgljOh5WRIA) 🔗 15/11/18
+
+Agafem l'array d'autors i els mostrem en un mapa `MKMapView`, de manera se'ns mostrin més o menys centrats i que cada anotació mostri el nom de l'autor i, al tocar-lo, també el títol de la seva primera novel·la.
+
 📲 [__23. Guardar un JSON al sistema local d'arxius d'una app i llegir-lo__](https://www.youtube.com/watch?v=xUYibiD1C_Y) 🔗 13/11/18
 
 Creem una app que agafa un array d'autors, el converteix a format JSON i el guarda al sistema local d'arxius de l'aplicació. Tot seguit, canviem el codi perquè quan l'app torni a obrir-se llegeixi l'arxiu .json que prèviament s'ha guardat i sigui capaç de recuperar el contingut JSON i convertir-lo de nou en l'array d'autors original.
