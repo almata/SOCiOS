@@ -3,6 +3,10 @@
 <div>👤 Albert Mata</div>
 <div>📅 Tardor 2018</div>
 
+📲 [__25. Obtenir localització i afegir una nova marca al mapa__](https://www.youtube.com/watch?v=2p_dedQW01I) 🔗 19/11/18
+
+Making-of sobre com obtenim la localització en un iPhone i l'aprofitem per crear una nova marca al mapa on ja mostràvem una sèrie d'autors. Aquest vídeo mostra una estructura més desorganitzada que de costum, perquè precissament pretén simular el flux de treball d'un programador quan està investigant un tema que encara no domina.
+
 📲 [__24. Mostrar una sèrie de llocs en un MKMapView__](https://www.youtube.com/watch?v=hgljOh5WRIA) 🔗 15/11/18
 
 Agafem l'array d'autors i els mostrem en un mapa `MKMapView`, de manera se'ns mostrin més o menys centrats i que cada anotació mostri el nom de l'autor i, al tocar-lo, també el títol de la seva primera novel·la.
